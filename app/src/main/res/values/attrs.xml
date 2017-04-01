@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomSwipeableLayout">
+        <attr name="firstLayout" format="integer" />
+        <attr name="secondLayout" format="integer"/>
+
+    </declare-styleable>
+</resources>
