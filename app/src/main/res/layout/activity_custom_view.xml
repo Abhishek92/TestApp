@@ -4,15 +4,11 @@
     android:id="@+id/activity_custom_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:context=".ui.CustomViewActivity">
 
-    tools:context="com.android.testandroid.ui.CustomViewActivity">
-
-    <com.android.testandroid.view.CustomSwipeableLayout
+    <com.android.testapp.view.CustomSwipeableLayout
         android:id="@+id/customSwipaebale"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-
-
-
 </RelativeLayout>
